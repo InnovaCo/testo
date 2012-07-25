@@ -1,0 +1,6 @@
+[submodule "lib/mockery"]
+	path = lib/mockery
+	url = git://github.com/innsand/mockery.git
+[submodule "lib/phpunit"]
+	path = lib/phpunit
+	url = git://github.com/innsand/phpunit.git
